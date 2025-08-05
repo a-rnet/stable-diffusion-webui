@@ -1,0 +1,10 @@
+{
+    "state-txt2img_steps": "30",
+    "state-ext-control-net-txt2img-0-enable": "true",
+    "state-txt2img_width": "832",
+    "state-tab": "Settings ",
+    "state-ext-control-net-txt2img-0-model": "control_v11p_sd15_openpose [cab727d4]",
+    "state-txt2img_scheduler": "Karras",
+    "state-txt2img_height": "1792",
+    "state-ext-control-net-txt2img-toggled": "true"
+}
